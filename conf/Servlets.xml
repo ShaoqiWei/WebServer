@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-body>
+	<mime-mapping>
+        <extension>/myweb/login</extension>
+        <mime-type>com.webserver.servlets.LoginServlet</mime-type>
+    </mime-mapping>
+    
+    <mime-mapping>
+        <extension>/myweb/pass</extension>
+        <mime-type>com.webserver.servlets.PassServlet</mime-type>
+    </mime-mapping>
+    
+    <mime-mapping>
+        <extension>/myweb/reg</extension>
+        <mime-type>com.webserver.servlets.RegServlet</mime-type>
+    </mime-mapping>
+    
+    
+</xml-body>
